@@ -1,0 +1,1117 @@
+{
+  "image": "depth.jpeg",
+  "image_size": {
+    "width": 1215,
+    "height": 920
+  },
+  "intrinsics_after_focal_normalization_to_1000": {
+    "fx": 1000.0,
+    "fy": 1000.0,
+    "cx": 609.0563212371728,
+    "cy": 458.13176440200186
+  },
+  "coordinate_system": "Pixel coordinates are normalized to [0, 2000) for both axes relative to the resized image width/height (matches DepthLM_eval_from_metadata_coord2k).",
+  "num_points": 100,
+  "samples": [
+    {
+      "pixel_coord_resized": [
+        10,
+        488
+      ],
+      "pixel_coord_normalized_2000": [
+        16,
+        1061
+      ],
+      "depth_meters": 14.007801910724202
+    },
+    {
+      "pixel_coord_resized": [
+        191,
+        119
+      ],
+      "pixel_coord_normalized_2000": [
+        314,
+        259
+      ],
+      "depth_meters": 8.721148387839039
+    },
+    {
+      "pixel_coord_resized": [
+        710,
+        320
+      ],
+      "pixel_coord_normalized_2000": [
+        1169,
+        696
+      ],
+      "depth_meters": 17.79998675482096
+    },
+    {
+      "pixel_coord_resized": [
+        223,
+        406
+      ],
+      "pixel_coord_normalized_2000": [
+        367,
+        883
+      ],
+      "depth_meters": 8.601240798995265
+    },
+    {
+      "pixel_coord_resized": [
+        1182,
+        773
+      ],
+      "pixel_coord_normalized_2000": [
+        1946,
+        1680
+      ],
+      "depth_meters": 6.446899463493242
+    },
+    {
+      "pixel_coord_resized": [
+        481,
+        513
+      ],
+      "pixel_coord_normalized_2000": [
+        792,
+        1115
+      ],
+      "depth_meters": 15.669342156048517
+    },
+    {
+      "pixel_coord_resized": [
+        423,
+        359
+      ],
+      "pixel_coord_normalized_2000": [
+        696,
+        780
+      ],
+      "depth_meters": 3.165267509544021
+    },
+    {
+      "pixel_coord_resized": [
+        1166,
+        467
+      ],
+      "pixel_coord_normalized_2000": [
+        1919,
+        1015
+      ],
+      "depth_meters": 127.90728859254857
+    },
+    {
+      "pixel_coord_resized": [
+        667,
+        514
+      ],
+      "pixel_coord_normalized_2000": [
+        1098,
+        1117
+      ],
+      "depth_meters": 16.22504659158102
+    },
+    {
+      "pixel_coord_resized": [
+        879,
+        411
+      ],
+      "pixel_coord_normalized_2000": [
+        1447,
+        893
+      ],
+      "depth_meters": 31.625245121343976
+    },
+    {
+      "pixel_coord_resized": [
+        669,
+        425
+      ],
+      "pixel_coord_normalized_2000": [
+        1101,
+        924
+      ],
+      "depth_meters": 12.253752228027526
+    },
+    {
+      "pixel_coord_resized": [
+        32,
+        445
+      ],
+      "pixel_coord_normalized_2000": [
+        53,
+        967
+      ],
+      "depth_meters": 13.686091509495197
+    },
+    {
+      "pixel_coord_resized": [
+        132,
+        416
+      ],
+      "pixel_coord_normalized_2000": [
+        217,
+        904
+      ],
+      "depth_meters": 8.170950952910294
+    },
+    {
+      "pixel_coord_resized": [
+        877,
+        341
+      ],
+      "pixel_coord_normalized_2000": [
+        1444,
+        741
+      ],
+      "depth_meters": 31.230585372378627
+    },
+    {
+      "pixel_coord_resized": [
+        454,
+        395
+      ],
+      "pixel_coord_normalized_2000": [
+        747,
+        859
+      ],
+      "depth_meters": 10.960490711650307
+    },
+    {
+      "pixel_coord_resized": [
+        775,
+        463
+      ],
+      "pixel_coord_normalized_2000": [
+        1276,
+        1007
+      ],
+      "depth_meters": 21.37835782831427
+    },
+    {
+      "pixel_coord_resized": [
+        904,
+        513
+      ],
+      "pixel_coord_normalized_2000": [
+        1488,
+        1115
+      ],
+      "depth_meters": 10.258971104188552
+    },
+    {
+      "pixel_coord_resized": [
+        522,
+        470
+      ],
+      "pixel_coord_normalized_2000": [
+        859,
+        1022
+      ],
+      "depth_meters": 2.8455084085433833
+    },
+    {
+      "pixel_coord_resized": [
+        626,
+        477
+      ],
+      "pixel_coord_normalized_2000": [
+        1030,
+        1037
+      ],
+      "depth_meters": 10.067483014341121
+    },
+    {
+      "pixel_coord_resized": [
+        1179,
+        485
+      ],
+      "pixel_coord_normalized_2000": [
+        1941,
+        1054
+      ],
+      "depth_meters": 45.509034775143064
+    },
+    {
+      "pixel_coord_resized": [
+        383,
+        436
+      ],
+      "pixel_coord_normalized_2000": [
+        630,
+        948
+      ],
+      "depth_meters": 10.008379712221728
+    },
+    {
+      "pixel_coord_resized": [
+        1051,
+        320
+      ],
+      "pixel_coord_normalized_2000": [
+        1730,
+        696
+      ],
+      "depth_meters": 42.508750533917684
+    },
+    {
+      "pixel_coord_resized": [
+        117,
+        614
+      ],
+      "pixel_coord_normalized_2000": [
+        193,
+        1335
+      ],
+      "depth_meters": 8.325142923662211
+    },
+    {
+      "pixel_coord_resized": [
+        22,
+        429
+      ],
+      "pixel_coord_normalized_2000": [
+        36,
+        933
+      ],
+      "depth_meters": 8.507399526463466
+    },
+    {
+      "pixel_coord_resized": [
+        820,
+        318
+      ],
+      "pixel_coord_normalized_2000": [
+        1350,
+        691
+      ],
+      "depth_meters": 20.291965581172203
+    },
+    {
+      "pixel_coord_resized": [
+        146,
+        470
+      ],
+      "pixel_coord_normalized_2000": [
+        240,
+        1022
+      ],
+      "depth_meters": 8.112557272745246
+    },
+    {
+      "pixel_coord_resized": [
+        667,
+        315
+      ],
+      "pixel_coord_normalized_2000": [
+        1098,
+        685
+      ],
+      "depth_meters": 13.880269800251929
+    },
+    {
+      "pixel_coord_resized": [
+        467,
+        635
+      ],
+      "pixel_coord_normalized_2000": [
+        769,
+        1380
+      ],
+      "depth_meters": 8.794089600861524
+    },
+    {
+      "pixel_coord_resized": [
+        479,
+        438
+      ],
+      "pixel_coord_normalized_2000": [
+        788,
+        952
+      ],
+      "depth_meters": 3.207435796587097
+    },
+    {
+      "pixel_coord_resized": [
+        542,
+        480
+      ],
+      "pixel_coord_normalized_2000": [
+        892,
+        1043
+      ],
+      "depth_meters": 2.757128381039534
+    },
+    {
+      "pixel_coord_resized": [
+        543,
+        334
+      ],
+      "pixel_coord_normalized_2000": [
+        894,
+        726
+      ],
+      "depth_meters": 2.7106334133218772
+    },
+    {
+      "pixel_coord_resized": [
+        33,
+        443
+      ],
+      "pixel_coord_normalized_2000": [
+        54,
+        963
+      ],
+      "depth_meters": 8.55245763368051
+    },
+    {
+      "pixel_coord_resized": [
+        336,
+        391
+      ],
+      "pixel_coord_normalized_2000": [
+        553,
+        850
+      ],
+      "depth_meters": 9.487724226500328
+    },
+    {
+      "pixel_coord_resized": [
+        375,
+        577
+      ],
+      "pixel_coord_normalized_2000": [
+        617,
+        1254
+      ],
+      "depth_meters": 10.02426955265737
+    },
+    {
+      "pixel_coord_resized": [
+        13,
+        449
+      ],
+      "pixel_coord_normalized_2000": [
+        21,
+        976
+      ],
+      "depth_meters": 13.976113908784836
+    },
+    {
+      "pixel_coord_resized": [
+        563,
+        335
+      ],
+      "pixel_coord_normalized_2000": [
+        927,
+        728
+      ],
+      "depth_meters": 2.727132553169239
+    },
+    {
+      "pixel_coord_resized": [
+        42,
+        338
+      ],
+      "pixel_coord_normalized_2000": [
+        69,
+        735
+      ],
+      "depth_meters": 8.555038384173223
+    },
+    {
+      "pixel_coord_resized": [
+        445,
+        636
+      ],
+      "pixel_coord_normalized_2000": [
+        733,
+        1383
+      ],
+      "depth_meters": 8.765436811522488
+    },
+    {
+      "pixel_coord_resized": [
+        398,
+        430
+      ],
+      "pixel_coord_normalized_2000": [
+        655,
+        935
+      ],
+      "depth_meters": 10.203551427893057
+    },
+    {
+      "pixel_coord_resized": [
+        1026,
+        479
+      ],
+      "pixel_coord_normalized_2000": [
+        1689,
+        1041
+      ],
+      "depth_meters": 86.79326217581995
+    },
+    {
+      "pixel_coord_resized": [
+        178,
+        378
+      ],
+      "pixel_coord_normalized_2000": [
+        293,
+        822
+      ],
+      "depth_meters": 8.321866694571636
+    },
+    {
+      "pixel_coord_resized": [
+        29,
+        379
+      ],
+      "pixel_coord_normalized_2000": [
+        48,
+        824
+      ],
+      "depth_meters": 8.546288953068753
+    },
+    {
+      "pixel_coord_resized": [
+        596,
+        635
+      ],
+      "pixel_coord_normalized_2000": [
+        981,
+        1380
+      ],
+      "depth_meters": 8.9866922415951
+    },
+    {
+      "pixel_coord_resized": [
+        1035,
+        466
+      ],
+      "pixel_coord_normalized_2000": [
+        1704,
+        1013
+      ],
+      "depth_meters": 124.32314053179043
+    },
+    {
+      "pixel_coord_resized": [
+        0,
+        410
+      ],
+      "pixel_coord_normalized_2000": [
+        0,
+        891
+      ],
+      "depth_meters": 14.21241843744981
+    },
+    {
+      "pixel_coord_resized": [
+        630,
+        415
+      ],
+      "pixel_coord_normalized_2000": [
+        1037,
+        902
+      ],
+      "depth_meters": 14.8675322050709
+    },
+    {
+      "pixel_coord_resized": [
+        752,
+        486
+      ],
+      "pixel_coord_normalized_2000": [
+        1238,
+        1057
+      ],
+      "depth_meters": 10.630938192527497
+    },
+    {
+      "pixel_coord_resized": [
+        634,
+        478
+      ],
+      "pixel_coord_normalized_2000": [
+        1044,
+        1039
+      ],
+      "depth_meters": 14.890423639363126
+    },
+    {
+      "pixel_coord_resized": [
+        293,
+        499
+      ],
+      "pixel_coord_normalized_2000": [
+        482,
+        1085
+      ],
+      "depth_meters": 9.119097756755341
+    },
+    {
+      "pixel_coord_resized": [
+        1008,
+        469
+      ],
+      "pixel_coord_normalized_2000": [
+        1659,
+        1020
+      ],
+      "depth_meters": 42.605038362255144
+    },
+    {
+      "pixel_coord_resized": [
+        208,
+        465
+      ],
+      "pixel_coord_normalized_2000": [
+        342,
+        1011
+      ],
+      "depth_meters": 8.47591303286299
+    },
+    {
+      "pixel_coord_resized": [
+        714,
+        516
+      ],
+      "pixel_coord_normalized_2000": [
+        1175,
+        1122
+      ],
+      "depth_meters": 10.249169759250465
+    },
+    {
+      "pixel_coord_resized": [
+        65,
+        450
+      ],
+      "pixel_coord_normalized_2000": [
+        107,
+        978
+      ],
+      "depth_meters": 8.490320513569515
+    },
+    {
+      "pixel_coord_resized": [
+        151,
+        531
+      ],
+      "pixel_coord_normalized_2000": [
+        249,
+        1154
+      ],
+      "depth_meters": 8.187071833287009
+    },
+    {
+      "pixel_coord_resized": [
+        689,
+        250
+      ],
+      "pixel_coord_normalized_2000": [
+        1134,
+        543
+      ],
+      "depth_meters": 12.66675831615721
+    },
+    {
+      "pixel_coord_resized": [
+        562,
+        328
+      ],
+      "pixel_coord_normalized_2000": [
+        925,
+        713
+      ],
+      "depth_meters": 2.704640743567861
+    },
+    {
+      "pixel_coord_resized": [
+        205,
+        512
+      ],
+      "pixel_coord_normalized_2000": [
+        337,
+        1113
+      ],
+      "depth_meters": 8.487253466499638
+    },
+    {
+      "pixel_coord_resized": [
+        321,
+        339
+      ],
+      "pixel_coord_normalized_2000": [
+        528,
+        737
+      ],
+      "depth_meters": 3.223935556851442
+    },
+    {
+      "pixel_coord_resized": [
+        631,
+        287
+      ],
+      "pixel_coord_normalized_2000": [
+        1039,
+        624
+      ],
+      "depth_meters": 14.960748614726164
+    },
+    {
+      "pixel_coord_resized": [
+        594,
+        285
+      ],
+      "pixel_coord_normalized_2000": [
+        978,
+        620
+      ],
+      "depth_meters": 13.3717130233769
+    },
+    {
+      "pixel_coord_resized": [
+        771,
+        473
+      ],
+      "pixel_coord_normalized_2000": [
+        1269,
+        1028
+      ],
+      "depth_meters": 10.828696486190024
+    },
+    {
+      "pixel_coord_resized": [
+        264,
+        530
+      ],
+      "pixel_coord_normalized_2000": [
+        435,
+        1152
+      ],
+      "depth_meters": 8.93939852756172
+    },
+    {
+      "pixel_coord_resized": [
+        148,
+        113
+      ],
+      "pixel_coord_normalized_2000": [
+        244,
+        246
+      ],
+      "depth_meters": 8.423165365206275
+    },
+    {
+      "pixel_coord_resized": [
+        466,
+        577
+      ],
+      "pixel_coord_normalized_2000": [
+        767,
+        1254
+      ],
+      "depth_meters": 11.408312190781695
+    },
+    {
+      "pixel_coord_resized": [
+        1034,
+        353
+      ],
+      "pixel_coord_normalized_2000": [
+        1702,
+        767
+      ],
+      "depth_meters": 43.35286338171562
+    },
+    {
+      "pixel_coord_resized": [
+        432,
+        426
+      ],
+      "pixel_coord_normalized_2000": [
+        711,
+        926
+      ],
+      "depth_meters": 10.588938139943364
+    },
+    {
+      "pixel_coord_resized": [
+        168,
+        431
+      ],
+      "pixel_coord_normalized_2000": [
+        277,
+        937
+      ],
+      "depth_meters": 8.263555095006486
+    },
+    {
+      "pixel_coord_resized": [
+        19,
+        471
+      ],
+      "pixel_coord_normalized_2000": [
+        31,
+        1024
+      ],
+      "depth_meters": 8.485714646051136
+    },
+    {
+      "pixel_coord_resized": [
+        806,
+        464
+      ],
+      "pixel_coord_normalized_2000": [
+        1327,
+        1009
+      ],
+      "depth_meters": 23.61198825753065
+    },
+    {
+      "pixel_coord_resized": [
+        854,
+        386
+      ],
+      "pixel_coord_normalized_2000": [
+        1406,
+        839
+      ],
+      "depth_meters": 28.081946274033005
+    },
+    {
+      "pixel_coord_resized": [
+        641,
+        442
+      ],
+      "pixel_coord_normalized_2000": [
+        1055,
+        961
+      ],
+      "depth_meters": 15.109644384126259
+    },
+    {
+      "pixel_coord_resized": [
+        775,
+        658
+      ],
+      "pixel_coord_normalized_2000": [
+        1276,
+        1430
+      ],
+      "depth_meters": 9.01405056862292
+    },
+    {
+      "pixel_coord_resized": [
+        399,
+        637
+      ],
+      "pixel_coord_normalized_2000": [
+        657,
+        1385
+      ],
+      "depth_meters": 8.71790679071253
+    },
+    {
+      "pixel_coord_resized": [
+        351,
+        526
+      ],
+      "pixel_coord_normalized_2000": [
+        578,
+        1143
+      ],
+      "depth_meters": 9.703941079358293
+    },
+    {
+      "pixel_coord_resized": [
+        835,
+        459
+      ],
+      "pixel_coord_normalized_2000": [
+        1374,
+        998
+      ],
+      "depth_meters": 26.208513997708543
+    },
+    {
+      "pixel_coord_resized": [
+        915,
+        474
+      ],
+      "pixel_coord_normalized_2000": [
+        1506,
+        1030
+      ],
+      "depth_meters": 40.51934118541652
+    },
+    {
+      "pixel_coord_resized": [
+        390,
+        442
+      ],
+      "pixel_coord_normalized_2000": [
+        642,
+        961
+      ],
+      "depth_meters": 10.091756881175128
+    },
+    {
+      "pixel_coord_resized": [
+        8,
+        439
+      ],
+      "pixel_coord_normalized_2000": [
+        13,
+        954
+      ],
+      "depth_meters": 14.084564234169076
+    },
+    {
+      "pixel_coord_resized": [
+        48,
+        492
+      ],
+      "pixel_coord_normalized_2000": [
+        79,
+        1070
+      ],
+      "depth_meters": 8.497384291571528
+    },
+    {
+      "pixel_coord_resized": [
+        645,
+        447
+      ],
+      "pixel_coord_normalized_2000": [
+        1062,
+        972
+      ],
+      "depth_meters": 15.279946810218846
+    },
+    {
+      "pixel_coord_resized": [
+        349,
+        455
+      ],
+      "pixel_coord_normalized_2000": [
+        574,
+        989
+      ],
+      "depth_meters": 9.667545522428261
+    },
+    {
+      "pixel_coord_resized": [
+        805,
+        453
+      ],
+      "pixel_coord_normalized_2000": [
+        1325,
+        985
+      ],
+      "depth_meters": 23.505235336618178
+    },
+    {
+      "pixel_coord_resized": [
+        305,
+        441
+      ],
+      "pixel_coord_normalized_2000": [
+        502,
+        959
+      ],
+      "depth_meters": 9.208610444380472
+    },
+    {
+      "pixel_coord_resized": [
+        832,
+        465
+      ],
+      "pixel_coord_normalized_2000": [
+        1370,
+        1011
+      ],
+      "depth_meters": 26.129291370813746
+    },
+    {
+      "pixel_coord_resized": [
+        223,
+        438
+      ],
+      "pixel_coord_normalized_2000": [
+        367,
+        952
+      ],
+      "depth_meters": 8.560696460734665
+    },
+    {
+      "pixel_coord_resized": [
+        684,
+        362
+      ],
+      "pixel_coord_normalized_2000": [
+        1126,
+        787
+      ],
+      "depth_meters": 12.538597322180621
+    },
+    {
+      "pixel_coord_resized": [
+        400,
+        265
+      ],
+      "pixel_coord_normalized_2000": [
+        658,
+        576
+      ],
+      "depth_meters": 3.160977644453602
+    },
+    {
+      "pixel_coord_resized": [
+        688,
+        432
+      ],
+      "pixel_coord_normalized_2000": [
+        1133,
+        939
+      ],
+      "depth_meters": 16.91933283004093
+    },
+    {
+      "pixel_coord_resized": [
+        851,
+        580
+      ],
+      "pixel_coord_normalized_2000": [
+        1401,
+        1261
+      ],
+      "depth_meters": 8.999075546890559
+    },
+    {
+      "pixel_coord_resized": [
+        162,
+        450
+      ],
+      "pixel_coord_normalized_2000": [
+        267,
+        978
+      ],
+      "depth_meters": 8.2104963847588
+    },
+    {
+      "pixel_coord_resized": [
+        130,
+        422
+      ],
+      "pixel_coord_normalized_2000": [
+        214,
+        917
+      ],
+      "depth_meters": 8.124178941590086
+    },
+    {
+      "pixel_coord_resized": [
+        989,
+        543
+      ],
+      "pixel_coord_normalized_2000": [
+        1628,
+        1180
+      ],
+      "depth_meters": 22.500065925301158
+    },
+    {
+      "pixel_coord_resized": [
+        722,
+        428
+      ],
+      "pixel_coord_normalized_2000": [
+        1188,
+        930
+      ],
+      "depth_meters": 14.5711535977001
+    },
+    {
+      "pixel_coord_resized": [
+        452,
+        308
+      ],
+      "pixel_coord_normalized_2000": [
+        744,
+        670
+      ],
+      "depth_meters": 10.958861452748142
+    },
+    {
+      "pixel_coord_resized": [
+        156,
+        457
+      ],
+      "pixel_coord_normalized_2000": [
+        257,
+        993
+      ],
+      "depth_meters": 8.165424241352932
+    },
+    {
+      "pixel_coord_resized": [
+        1115,
+        575
+      ],
+      "pixel_coord_normalized_2000": [
+        1835,
+        1250
+      ],
+      "depth_meters": 16.55632254863768
+    },
+    {
+      "pixel_coord_resized": [
+        1189,
+        564
+      ],
+      "pixel_coord_normalized_2000": [
+        1957,
+        1226
+      ],
+      "depth_meters": 20.139169101134655
+    },
+    {
+      "pixel_coord_resized": [
+        828,
+        286
+      ],
+      "pixel_coord_normalized_2000": [
+        1363,
+        622
+      ],
+      "depth_meters": 16.398055345854495
+    },
+    {
+      "pixel_coord_resized": [
+        1119,
+        560
+      ],
+      "pixel_coord_normalized_2000": [
+        1842,
+        1217
+      ],
+      "depth_meters": 19.907036014267042
+    },
+    {
+      "pixel_coord_resized": [
+        400,
+        406
+      ],
+      "pixel_coord_normalized_2000": [
+        658,
+        883
+      ],
+      "depth_meters": 10.244492571441773
+    }
+  ]
+}

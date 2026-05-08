@@ -1,0 +1,69 @@
+{
+  "image_1": "pose_img1.jpeg",
+  "image_2": "pose_img2.jpeg",
+  "image_1_size_original": {
+    "width": 1752,
+    "height": 1168
+  },
+  "image_2_size_original": {
+    "width": 1752,
+    "height": 1168
+  },
+  "image_1_size_resized": {
+    "width": 2830,
+    "height": 1884
+  },
+  "image_2_size_resized": {
+    "width": 2830,
+    "height": 1884
+  },
+  "intrinsics_1_resized": {
+    "fx": 750.0,
+    "fy": 750.0,
+    "cx": 1414.970085501263,
+    "cy": 942.1565986220934
+  },
+  "intrinsics_2_resized": {
+    "fx": 750.0,
+    "fy": 750.0,
+    "cx": 1414.970085501263,
+    "cy": 942.1565986220934
+  },
+  "scene_name": "",
+  "dataset_name": "scannetppv2",
+  "scale_type": "metric",
+  "covisibility": null,
+  "preprocessing": "Both images were normalised so that the focal length is 750 px, matching the WAI camera-pose eval pipeline (Qwen3_WAI_CameraPose_all_eval_f750_natural).",
+  "convention": "Rotation: intrinsic Yaw->Pitch->Roll about cam-1's body axes (yaw>0 = turn right, pitch>0 = look up, roll>0 = bank right). Translation: unit-vector direction in cam-1's body frame (x>0 right, y>0 down, z>0 forward). Distance is in metres (only for metric / estimated-metric datasets).",
+  "ground_truth_pose": {
+    "rotation_angle_deg": 89.6547345694857,
+    "yaw_deg": 89.60077227075526,
+    "pitch_deg": 2.598684372865458,
+    "roll_deg": 6.072327841623985,
+    "translation_direction": "left, forward",
+    "translation_unit_vector": "(-0.69, +0.02, +0.72)",
+    "translation_distance_m": 1.9806591332884265
+  },
+  "qa_pairs": [
+    {
+      "question_id": "rotation_angle",
+      "question": "Given these two images captured from different viewpoints, what is the relative rotation angle (in degrees) between the two camera poses?",
+      "answer": "Rotation angle: 89.7 degrees"
+    },
+    {
+      "question_id": "euler_natural",
+      "question": "Treating the first image as the reference viewpoint, describe the camera's reorientation needed to reach the second image's viewpoint as yaw, pitch and roll about the first camera's local axes, applied intrinsically in the order yaw -> pitch -> roll.  Conventions: yaw is rotation about the vertical (down) axis, positive = turn right; pitch is about the lateral (right) axis after yaw, positive = look up; roll is about the optical (forward) axis after yaw and pitch, positive = bank to the right (image content rotates clockwise from the operator's POV).",
+      "answer": "Yaw=+89.6\u00b0, Pitch=+2.6\u00b0, Roll=+6.1\u00b0"
+    },
+    {
+      "question_id": "translation_direction",
+      "question": "Where did the camera move, expressed in the first camera's local frame (X right, Y down, Z forward)?  Give a qualitative direction and the precise unit direction vector (x, y, z).",
+      "answer": "The camera moves left, forward, unit vector (-0.69, +0.02, +0.72)."
+    },
+    {
+      "question_id": "translation_distance",
+      "question": "Estimate the magnitude of the camera translation between the two viewpoints.",
+      "answer": "Translation distance: 1.98 meters"
+    }
+  ]
+}

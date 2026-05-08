@@ -1,0 +1,70 @@
+{
+  "image": "spatialrgpt.jpeg",
+  "image_size_original": {
+    "width": 1024,
+    "height": 768
+  },
+  "image_size_resized": {
+    "width": 1134,
+    "height": 851
+  },
+  "intrinsics_original": {
+    "fx": 902.4662475585938,
+    "fy": 901.3929443359375,
+    "cx": 511.38848876953125,
+    "cy": 383.7367858886719
+  },
+  "intrinsics_after_focal_normalization_to_1000": {
+    "fx": 1000.0,
+    "fy": 998.8106998731977,
+    "cx": 566.6566369135359,
+    "cy": 425.2090168765644
+  },
+  "bbox_format": "[x1, y1, x2, y2]",
+  "bboxes": [
+    {
+      "region_id": 0,
+      "bbox_resized_pixels": [
+        0,
+        33,
+        740,
+        850
+      ],
+      "bbox_normalized_1000": [
+        0,
+        39,
+        652,
+        999
+      ]
+    },
+    {
+      "region_id": 1,
+      "bbox_resized_pixels": [
+        7,
+        324,
+        258,
+        479
+      ],
+      "bbox_normalized_1000": [
+        6,
+        380,
+        228,
+        562
+      ]
+    }
+  ],
+  "qa_info": {
+    "category": "small_predicate",
+    "class": [
+      "lamp",
+      "television"
+    ],
+    "type": "qualitative"
+  },
+  "id": "qualitative_3TrgWgKqnf",
+  "prompt": "Can you confirm if bounding box region (0, 39, 652, 999) is smaller than bounding box region (6, 380, 228, 562)?",
+  "answer": "Incorrect, bounding box region (0, 39, 652, 999) is not smaller in size than bounding box region (6, 380, 228, 562).",
+  "raw_user_msg": "<image>\n Can you confirm if <mask> is smaller than <mask>?",
+  "raw_assistant_msg": "Incorrect, Region [0] is not smaller in size than Region [1].",
+  "notes": "Image was resized via normalizing_focal_length(1000, intrinsics, img) so fx == fy == 1000 in the saved JPEG. `bbox_normalized_1000` matches the [0, 1000] coordinates the model is prompted with (matches SpatialRGPT_Object). `bbox_resized_pixels` are pixel coordinates in spatialrgpt.jpeg."
+}
