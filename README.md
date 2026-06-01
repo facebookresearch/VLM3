@@ -5,6 +5,10 @@
 | Model      |                                               Coming Soon!                                                |
 |:----:|:-------------------------------------------------------------------------------------------------:|
 
+<div align=center>
+<img width=100% src="./media/teaser.svg"/>
+</div>
+
 
 ## Summary
 
@@ -26,9 +30,6 @@ Our findings provide a new perspective on what is and is not necessary for 3D vi
 - Large models, task-specific architectures, losses, data-augmentations, and even the regression formulation that sets the foundation of most SOTA 3D expert vision models, are all not necessary conditions for effective 3D learning.
 - A generalist foundation model (VLM) with unified output domain (text) + data scaling are sufficient.
 
-<div align=center>
-<img width=100% src="./media/teaser.svg"/>
-</div>
 
 ## Method Overview
 
