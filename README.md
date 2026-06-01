@@ -145,4 +145,4 @@ This work is largely motivated by our previous project [DepthLM](https://github.
     }
 
 ## License
-DepthLM is FAIR CC-BY-NC licensed, as found in the LICENSE file.
+VLM³ is FAIR CC-BY-NC licensed, as found in the LICENSE file.
