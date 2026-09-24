@@ -1,4 +1,4 @@
-# [VLM³: Vision Language Models Are Native 3D Learners](https://arxiv.org/pdf/2605.30561)
+# [(NeurIPS 2026) VLM³: Vision Language Models Are Native 3D Learners](https://arxiv.org/pdf/2605.30561)
 
 [![Paper](https://img.shields.io/badge/arXiv-2605.30561-b31b1b.svg)]([https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/abs/2605.30561))
 
